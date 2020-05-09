@@ -42,6 +42,7 @@ public class TestWordCount
 	 
 	  @Test
 	  public void testReducer()throws IOException 
+		  
       {
 	    List<IntWritable> values = new ArrayList<IntWritable>();
 	    values.add(new IntWritable(1));
