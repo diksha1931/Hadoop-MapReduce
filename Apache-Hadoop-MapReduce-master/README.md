@@ -126,7 +126,6 @@ java.lang.InterruptedException
 		Bytes Written=56
 ```
 ## How to check your output ?
-
 To check your output type 
 ```shell 
 hdfs dfs -cat <OUTPUT DIR NAME>/part*
