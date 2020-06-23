@@ -1,2 +1,2 @@
 # Hadoop-MapReduce
-MapReduce basic programms
+MapReduce basic programs
